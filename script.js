@@ -8,4 +8,5 @@ let randomCompTwo = Math.floor(Math.random()*4);
 let randomCompThree = Math.floor(Math.random()*4);
 
 console.log(`Your favourite color is ${messageOneComponent[randomCompOne]}`);
-
+console.log(`Which means you live in a ${messageTwoComponent[randomCompTwo]}`)
+console.log(`and, you love to eat ${messageThreeComponent[randomCompThree]}`)
