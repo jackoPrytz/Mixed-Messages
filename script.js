@@ -1,5 +1,5 @@
 console.log('Whats up bitches!!!')
-const MessageOne [];
-const MessageTwo [];
-const MessageThree [];
+const MessageOneComponent = ['red', 'blue', 'green', 'yellow'];
+const MessageTwoComponent = ['house','car','boat', 'tree'];
+const MessageThreeComponent = ['bananas','fish','cake','cheese'];
 
